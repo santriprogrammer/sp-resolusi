@@ -1,2 +1,2 @@
 # sp-resolusi
-Membuat Resolusi.txt
+Membuat Repositori untuk kedepan sp
